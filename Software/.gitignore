@@ -1,0 +1,4 @@
+.pioenvs
+.piolibdeps
+lib/readme.txt
+.travis.yml
