@@ -1,7 +1,7 @@
 # Akkubox
-Projekt von @FranzImsch.
+Projekt von [@FranzImsch](https://github.com/FranzImsch).
 
-Software by @LeoDJ.
+Software by [@LeoDJ](https://github.com/LeoDJ).
 
 
 ## Pinout
